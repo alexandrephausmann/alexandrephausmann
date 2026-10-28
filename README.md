@@ -1,28 +1,30 @@
-### Olá, sou Alexandre Paschoal Hausmann 👋
+### Hello, I'm Alexandre Paschoal Hausmann 👋
 
-Engenheiro de Software Sênior | Desenvolvedor C# e Angular(Fullstack) | Azure Developer Associate AZ204 | AZ-900
-
----
-
-### 🚀 Sobre Mim
-
-Sou formado pela Unicamp no curso de Tecnologia em Análise e Desenvolvimento de Sistemas e possuo mais de 4 anos de experiência na área de Tecnologia, focado em desenvolvimento de softwares. Atualmente, exerço a função de Engenheiro de Software Sênior em C# na Wex Inc. Meu objetivo constante é aprimorar minhas habilidades e meu senso crítico em qualidade, sempre buscando oferecer o melhor para os clientes.
+Senior Software Engineer | C# and Angular (Fullstack) Developer | Azure Developer Associate AZ-204 | AZ-900
 
 ---
 
-### 💻 Habilidades Principais
+### 🚀 About Me
 
-* C# 
+I graduated from Unicamp in the Technology in Systems Analysis and Development program and have over 4 years of experience in the technology field, focused on software development.
+
+I am currently a Fullstack Developer, with a focus on .NET, Angular, SQL, Azure, and AWS. I have experience in professional development as well as academic systems, application development, software architecture, database integration, and cloud technologies. I have worked in various areas of the technology sector, always aiming to deliver practical and effective solutions.
+
+---
+
+### 💻 Main Skills
+
+* C#
 * SQL
-* Typescript
-* Angular 
+* TypeScript
+* Angular
 * Azure
 * AWS
-* PowerBI
+* Power BI
 
 ---
 
-### 🏆 Certificações
+### 🏆 Certifications
 
 * Microsoft Certified: Azure Developer Associate (AZ-204)
 * Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -30,6 +32,6 @@ Sou formado pela Unicamp no curso de Tecnologia em Análise e Desenvolvimento de
 
 ---
 
-### Conecte-se Comigo!
+### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-paschoal-hausmann/)
